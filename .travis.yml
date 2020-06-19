@@ -1,3 +1,4 @@
+sudo:
 language: java
   java:
     - "8.0"
