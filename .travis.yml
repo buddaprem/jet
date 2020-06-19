@@ -1,6 +1,7 @@
-sudo: required
-install: true
 language: java
+  java:
+    - "12.0"
+install: true
 dist: xenial
 
 services:
