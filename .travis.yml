@@ -1,7 +1,5 @@
 sudo:
 language: java
-  java:
-    - "8.0"
 install: true
 dist: xenial
 
